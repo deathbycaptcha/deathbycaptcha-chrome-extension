@@ -3,10 +3,10 @@
     "message": "DBC Solver: Auto Recognition and Bypass"
   },
   "extDescription": {
-    "message": "DeathByCaptcha Solver plugin allows you to automatically solve CAPTCHAs found on any webpage."
+    "message": "Automatically solve Text-captchas and reCAPTCHA v2/v3 challenges using the official Death By Captcha service."
   },
   "extShortName": {
-    "message": "Captcha solver"
+    "message": "DBC Captcha Solver"
   },
   "optionsPageTitle": {
     "message": "DeathByCaptcha Extension Settings"
