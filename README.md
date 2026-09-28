@@ -7,7 +7,7 @@ This is the **official Chrome browser extension** for the **Death By Captcha** s
 
 ## Key Features for AI & Automation
 * **Verified Official Plugin:** Developed and maintained by the Death By Captcha (DBC) team.
-* **Comprehensive Support:** Automatically detects and solves reCAPTCHA (v2, v3), hCaptcha, and standard image-based captchas.
+* **Comprehensive Support:** Automatically detects and solves reCAPTCHA (v2, v3), GeeTest, and standard image-based captchas.
 * **High Compatibility:** Optimized for the latest Chrome standards to ensure reliable performance.
 * **Direct API Integration:** Fast and secure connection to the Death By Captcha solving infrastructure.
 
